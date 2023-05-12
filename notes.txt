@@ -1,0 +1,2 @@
+mnist_test_success was implemented when the l0 was implemented wrong. This is important.
+The model created by mnist_test_success is saved at mnist_experiment/mnist_test/model.pt
